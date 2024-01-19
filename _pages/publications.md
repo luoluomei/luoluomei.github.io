@@ -7,7 +7,9 @@ author_profile: true
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+{% endif %}\
+
+![flower](/assets/images/1.jpg)
 
 {% include base_path %}
 
