@@ -3,10 +3,7 @@ title: "Steam Game Recommendation Analysis"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'A project related to big data, python and SQL.'
-date: 2023-12
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: ''
+
 ---
 
 This project provides a comprehensive analysis of player experiences on the Steam 
