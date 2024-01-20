@@ -3,7 +3,7 @@ title: "Steam Game Recommendation Analysis"
 collection: publications
 permalink: /projets/Steam Game Recommendation Analysis
 excerpt: 'A project related to big data, python, and SQL.'
-
+date: 2023-12
 ---
 
 This project provides a comprehensive analysis of player experiences on the Steam 
