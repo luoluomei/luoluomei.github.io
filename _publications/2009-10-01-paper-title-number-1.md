@@ -38,6 +38,27 @@ favorable impact on purchasing decisions compared to traditional face-to-face wo
 (Mankad et al., 2016).
 <br>
 
-**Project Motivations**
-
+**Description of the Data**
+-----------------
 The dataset for the "Steam Game Recommendation Analysis" project is sourced from Kaggle and comprises three primary CSV files: games.csv, users.csv, and recommendations.csv, each contributing uniquely to the analysis of video game trends and preferences.
+
+**1. games.csv**  
+
+This file contains tabular data regarding various games or add-ons, which 
+includes information on ratings, pricing in US dollars, release dates, among other details. 
+Additional non-tabular metadata about the games, such as descriptions and tags, are contained 
+in a separate metadata file.  
+**Number of Records:** The dataset contains 50,872 records.  
+**Number of Features:** There are 13 features (columns) in the dataset.  
+**First Few Rows:** A glimpse into the dataset reveals columns like 'app_id', 'title', 'date_release', 
+platform compatibility (Windows, Mac, Linux), 'rating', 'positive_ratio', 'user_reviews', pricing 
+details, 'discount', and 'steam_deck' compatibility.  
+**Data Types:** The data types include integers (int64), floating-point numbers (float64), boolean 
+(bool), and objects (object). The 'date_release' column is currently in an object (string) format, 
+which might need conversion to a datetime format for certain types of analysis.
+Structured or Unstructured: This is structured data, as it is organized in a tabular format with 
+rows and columns.  
+**Source and Collection Details:** The dataset was collected from Steam Official Store. All rights 
+on the dataset thumbnail image belong to the Valve Corporation. The expected update 
+frequency is Monthly.  
+
