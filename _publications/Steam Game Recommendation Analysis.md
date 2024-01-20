@@ -1,7 +1,7 @@
 ---
 title: "Steam Game Recommendation Analysis"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/Steam Game Recommendation Analysis
 excerpt: 'A project related to big data, python, and SQL.'
 
 ---
