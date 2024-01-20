@@ -1,7 +1,7 @@
 ---
 title: "Steam Game Recommendation Analysis"
 collection: publications
-permalink: /publication/Steam Game Recommendation Analysis
+permalink: /projets/Steam Game Recommendation Analysis
 excerpt: 'A project related to big data, python, and SQL.'
 
 ---
