@@ -55,7 +55,7 @@ platform compatibility (Windows, Mac, Linux), 'rating', 'positive_ratio', 'user_
 details, 'discount', and 'steam_deck' compatibility.  
 **Data Types:** The data types include integers (int64), floating-point numbers (float64), boolean 
 (bool), and objects (object). The 'date_release' column is currently in an object (string) format, 
-which might need conversion to a datetime format for certain types of analysis.
+which might need conversion to a DateTime format for certain types of analysis.
 Structured or Unstructured: This is structured data, as it is organized in a tabular format with 
 rows and columns.  
 **Source and Collection Details:** The dataset was collected from Steam Official Store. All rights 
