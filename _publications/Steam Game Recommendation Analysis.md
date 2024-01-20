@@ -47,7 +47,7 @@ The dataset for the "Steam Game Recommendation Analysis" project is sourced from
 **1. games.csv**  
 
 This file contains tabular data regarding various games or add-ons, which 
-includes information on ratings, pricing in US dollars, release dates, among other details. 
+includes information on ratings, pricing in US dollars, and release dates, among other details. 
 Additional non-tabular metadata about the games, such as descriptions and tags, are contained 
 in a separate metadata file.  
 **Number of Records:** The dataset contains 50,872 records.  
@@ -57,10 +57,20 @@ platform compatibility (Windows, Mac, Linux), 'rating', 'positive_ratio', 'user_
 details, 'discount', and 'steam_deck' compatibility.  
 **Data Types:** The data types include integers (int64), floating-point numbers (float64), boolean 
 (bool), and objects (object). The 'date_release' column is currently in an object (string) format, 
-which might need conversion to a DateTime format for certain types of analysis.
-Structured or Unstructured: This is structured data, as it is organized in a tabular format with 
+which might need conversion to a DateTime format for certain types of analysis.  
+**Structured or Unstructured:** This is structured data, as it is organized in a tabular format with 
 rows and columns.  
-**Source and Collection Details:** The dataset was collected from Steam Official Store. All rights 
+**Source and Collection Details:** The dataset was collected from the Steam Official Store. All rights 
 on the dataset thumbnail image belong to the Valve Corporation. The expected update 
 frequency is Monthly.  
+
+**2. users.csv**  
+
+This file encompasses tabular data on Steam's registered user profiles, detailing their engagement and purchasing behavior through the platform.  
+**Number of Records:**  According to the description, the dataset is extensive, containing 13,786,778 records, reflecting a vast user base.  
+**Number of Features:** The file includes 3 distinct features, providing a focused insight into user activity.  
+**First Few Rows:** The initial data rows would typically display individual user IDs alongside their product purchase count and review count.  
+**Data Types:** ALL the specific data types are integers (int64).   
+**Structured or Unstructured:**  This dataset is structured, presenting information in a clear, tabular format conducive to analysis.   
+**Source and Collection Details:**  The data is sourced from the Steam platform, indicating a comprehensive aggregation of user interaction data, which may be updated periodically.   
 
