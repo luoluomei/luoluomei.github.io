@@ -74,3 +74,11 @@ This file encompasses tabular data on Steam's registered user profiles, detailin
 **Structured or Unstructured:**  This dataset is structured, presenting information in a clear, tabular format conducive to analysis.   
 **Source and Collection Details:**  The data is sourced from the Steam platform, indicating a comprehensive aggregation of user interaction data, which may be updated periodically.   
 
+**3. recommendations.csv**  
+
+This file consists of data regarding user-generated reviews and recommendations for games on the Steam platform, offering a multifaceted view of user engagement.  
+**Number of Features:**  The dataset includes several features such as 'app_id', 'helpful', 'funny', 'date', 'is_recommended', 'hours', 'user_id', and 'review_id'.  
+**First Few Rows:** The initial rows likely present individual reviews, including user engagement metrics and the recommendation status. 
+**Data Types:**  Data types in this file include integers, booleans, and datetime objects, indicating a mix of quantitative and categorical data.   
+**Structured or Unstructured:** Given the tabular format with distinct rows and columns, the dataset is structured.  
+**Source and Collection Details:** The data has been collated from user interactions on the Steam platform, with the potential for monthly updates to reflect ongoing user activity.
