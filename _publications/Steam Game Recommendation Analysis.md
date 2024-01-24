@@ -119,7 +119,7 @@ size of its player base, and community activity.
 <br>
 <br>
 ![Q1](/images/1.png)
-
+<br>
 
 **2. Which game has the most helpful/funny reviews?**
 
@@ -150,3 +150,77 @@ entertainment value than for their informative community feedback.
 ![Q21](/images/21.png)
 <br>
 ![Q22](/images/22.png)
+<br>
+
+**3. Which game is the most recommended by users?**
+
+The pie chart below displays the distribution of user recommendations among the top 5 
+games. "Team Fortress 2" is the most recommended game with 27.1% recommendations. 
+"Rust" follows closely with 20.8% of recommendations, while "The Witcher 3: Wild Hunt", 
+"Wallpaper Engine" and "Counter-Strike: Global Offensive" have 17.8%, 17.2% and 17.1% 
+respectively.  
+
+The high percentage of recommendations suggest that the game is highly favored within 
+their communities, reflecting a strong level of satisfaction and positive endorsement from the 
+users who have reviewed them.  
+<br>
+<br>
+![Q3](/images/3.png)
+<br>
+
+**4. What are the Top 10 rated Steam games released?**
+
+We selected games with a positive ratio above or equal to 90 and a rating of 
+'Overwhelmingly Positive'. Then listed it in descending order of user reviews and positive ratio 
+to get the Top 10 rated steam games released. This process guarantees the exclusion of games 
+with low user reviews, as lower reviews tend to result in less reliable and potentially distorted 
+positive ratios and ratings.  
+
+Below is the result of the Top 10 rated steam games released. We can see that the top 1 
+game is Terraria with 943413 user reviews and 97 positive ratios.
+<br>
+<br>
+![Q4](/images/4.png)
+<br>
+
+**5. What are the Lowest 10-rated Steam games released?**
+
+Similar to the previous question, we eliminate games with low user reviews, as lower 
+reviews often lead to less dependable and potentially skewed positive ratios and ratings. We 
+selected games with a positive ratio below or equal to 50 and a rating of either 'Overwhelmingly 
+Negative', 'Mostly Negative' or 'Negative', the bottom three rating classifications. Then listed it 
+in descending order of user reviews and in ascending order of positive ratio to get the lowest 
+10 rated steam games released.  
+
+We can see from the results below that the lowest game is Overwatch 2 with 181198 user 
+reviews and 9 positive ratio.
+<br>
+<br>
+![Q5](/images/5.png)
+<br>
+
+**6. What is the distribution of Game ratings?**
+
+We counted the number of games in each level of rating and got the chart below. 
+According to the bar chart, we can see that games are on average rated more positively with 
+most games falling between mixed and very positive. It was uncommon to find games rated on 
+either extreme with only 1110 games rated as “Overwhelmingly Positive” and only 14 games 
+as “Overwhelmingly Negative”.  
+
+This situation is due to the Steam rating system. The rating system splits games into three 
+groups, 10-49 reviews, 59-499 reviews and 500+ reviews. To achieve a 'Very Positive' or 
+'Overwhelmingly Positive' rating, a game must have over 50 or 500 reviews respectively and 
+with a positive review ratio of 80% or higher. Conversely, a negative rating is assigned when 
+the positive review ratio is 19% or less.  
+
+While this rating system explains for the little number of games in either extreme rating, 
+it doesn't explain why most Steam games are positive. So relying solely on game ratings for 
+recommendations may not be comprehensive, as a majority of games tend to receive positive 
+ratings. These ratings alone may not provide sufficient information about a game's suitability 
+for players. Additional factors and considerations beyond ratings are needed to make more 
+informed recommendations, ensuring that the recommended games align with the preferences 
+of the players.
+<br>
+<br>
+![Q6](/images/6.png)
+<br>
