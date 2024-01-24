@@ -82,3 +82,19 @@ This file consists of data regarding user-generated reviews and recommendations 
 **Data Types:**  Data types in this file include integers, booleans, and datetime objects, indicating a mix of quantitative and categorical data.   
 **Structured or Unstructured:** Given the tabular format with distinct rows and columns, the dataset is structured.  
 **Source and Collection Details:** The data has been collated from user interactions on the Steam platform, with the potential for monthly updates to reflect ongoing user activity.
+
+**Problem Statement**
+-----------------
+1. Which game has the most reviews in total?
+2. Which game has the most helpful/funny reviews?
+3. Which game is the most recommended by users?
+4. What are the Top 10 rated Steam games released?
+5. What are the Lowest 10-rated Steam games released?
+6. What is the distribution of Game ratings?
+7. Recommendations to users based on game similarities
+
+**Research Method**
+-----------------
+To solve problems 1-6, we use Impala to query and analyze data using SQL-like syntax and then use Python and Tableau to visualize the results.
+To solve problem 7, we use Python, specifically leveraging the pandas, matplotlib, pyspark, and scikit-learn libraries.
+
