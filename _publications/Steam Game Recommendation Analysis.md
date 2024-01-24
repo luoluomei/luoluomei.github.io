@@ -101,12 +101,14 @@ To solve problem 7, we use Python, specifically leveraging the pandas, matplotli
 **Results**
 -----------------
 **1. Which game has the most reviews in total?**
+
 According to the chart provided, “Team Fortress 2” received the most reviews among the 
 top 10 games. The bar chart shows that “Team Fortress 2” has garnered over 300,000 reviews, 
 making it the most reviewed game on the list. The games that followed "Team Fortress 2" were 
 "Rust," "Cyberpunk 2077," "Counter-Strike: Global Offensive," "Dota 2," "The Witcher 3: 
 Wild Hunt," "Paladin," "Fallout 4," "Wallpaper Engine," and "Tom Clancy's Rainbow Six 
-Siege," all with significant numbers of reviews.
+Siege," all with significant numbers of reviews.  
+
 Team Fortress 2's high reviews reflect its long-term popularity and strong gaming 
 community. It is worth noting that Team Fortress 2 has been on the market for quite some time, 
 which has also contributed to the large number of reviews it has accumulated. In addition, the 
