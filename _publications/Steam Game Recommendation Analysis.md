@@ -116,7 +116,37 @@ emergence of new games such as Cyberpunk 2077 shows that recently released games
 receive a large number of reviews, which may be due to the initial hype and the large player 
 base at launch. Overall, the number of reviews a game receives can reflect its popularity, the 
 size of its player base, and community activity.  
-
+<br>
+<br>
 ![Q1](/images/1.png)
 
 
+**2. Which game has the most helpful/funny reviews?**
+
+The following two charts show the top 10 games that received both "helpful" and "funny" 
+votes. Interestingly, the top three are the same. Looking specifically at the first chart, "Counter-Strike: Global Offensive" leads in the 
+number of votes helped, followed by "PUBG" and "Grand Theft Auto V." The remaining 
+games, including "Cyberpunk 2077," "No Man's Sky," "DayZ," "Tom Clancy's Rainbow Six 
+Siege," "Fallout 4," "Dota 2," and "The Witcher 3: Wild Hunt," had significantly fewer 
+beneficial votes, indicating a strong preference for or reliance on the leading game for beneficial 
+community feedback.  
+
+In the second chart, "Counter-Strike: Global Offensive" also topped the funny vote, but 
+by a much larger margin than "PUBG”, which came in second. The funny category vote was 
+not as evenly distributed as the good category vote, with a sharp drop after the top two games. 
+The list includes "Grand Theft Auto V," "Tom Clancy's Rainbow Six Siege," "Dota 2," "The 
+Forest," "Wallpaper Engine," "Rust," "The Witcher 3: Wild Hunt," and "Cyberpunk 2077."  
+
+Based on these observations, we can conclude that “Counter-Strike: Global Offensive” is 
+not only viewed by the community as a rewarding game but also as a source of entertainment, 
+coming out on top in both beneficial and fun polls. "PUBG " and "Grand Theft Auto V" also 
+received high ratings in both categories. The number of votes for funny games after the top two 
+dropped sharply, suggesting that humor may be more concentrated in certain gaming 
+communities. Games like "The Forest" and "Wallpaper Engine" appear on the funny poll, but 
+not on the helpful poll, which may indicate that these games are more popular for their 
+entertainment value than for their informative community feedback.
+<br>
+<br>
+![Q21](/images/21.png)
+<br>
+![Q22](/images/22.png)
