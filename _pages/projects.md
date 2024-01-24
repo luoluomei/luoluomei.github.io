@@ -12,7 +12,6 @@ author_profile: true
 <br>
 <br>
 
-![flower](/images/1.png)
 
 <br>
 {% include base_path %}
