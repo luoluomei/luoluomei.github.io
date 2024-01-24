@@ -224,3 +224,67 @@ of the players.
 <br>
 ![Q6](/images/6.png)
 <br>
+
+
+**7. Recommendations to users based on game similarities**
+
+This project created a video game recommender system, utilizing Python and 
+harnessing the powerful functionalities of Pandas, Matplotlib, and Scikit-learn libraries. The 
+methodology integrates several advanced computational techniques, beginning with Term 
+Frequency-Inverse Document Frequency (TF-IDF) Vectorization. This process transforms 
+game titles into a matrix of weighted features, capturing their relevance within the dataset. To 
+tackle the issue of high-dimensional space resulting from TF-IDF, Sparse Random Projection 
+is implemented for effective dimensionality reduction, preserving the relative distances among 
+data points.  
+
+The core of the recommendation algorithm is based on computing Euclidean distances 
+between the reduced vectors of games reviewed by users and those within the entire game 
+database. This computation is critical in identifying games that align closely with users' 
+historical preferences. The recommender system then generates a list of games, ranking them 
+based on the volume of user reviews. This ranking is predicated on the assumption that a higher 
+number of reviews may reflect a game's popularity or quality.  
+
+For a comprehensive presentation of the findings, the study employs visualizations 
+such as bar charts. These charts display the number of user reviews for each recommended 
+game, providing an indication of its popularity. Additionally, another set of charts shows the 
+games' ratings, offering insight into their perceived quality by the users. These visual 
+representations are crucial for providing an intuitive understanding of the recommender 
+system's output, showcasing user engagement and satisfaction levels with the recommended 
+games. Through this approach, the paper demonstrates a practical application of data analysis 
+and machine learning techniques in enhancing user experience in the gaming domain.
+<br>
+<br>
+![Q71](/images/71.png)
+<br>
+![Q72](/images/72.png)
+
+**Project Conclusion**
+-----------------
+The study primarily examined the impact of Steam game reviews on player decision-making in game selection. An in-depth quantitative analysis of these reviews on the Steam 
+platform provided valuable insights into player experiences, a crucial aspect for game 
+developers aiming to enhance game quality and personalize game recommendations.
+The utilized dataset included comprehensive details on games, users, and 
+recommendations in a CSV format, encompassing elements such as game ratings, release dates, 
+and pricing structures. This data particularly shed light on games that garnered attention due to 
+their helpful/funny votes and high comment counts. Notable examples, such as Counter-Strike: 
+Global Offensive and Team Fortress 2, demonstrated prominence in these categories. It was 
+observed that relying solely on SQL-based big data analysis tends to produce basic and 
+generalized results, predominantly reflecting mass preferences rather than catering to the 
+unique interests of individual users.  
+
+Subsequently, the research shifted focus to developing a more sophisticated game 
+recommendation system, harnessing Python libraries and computational methodologies. This 
+advanced system underscored the importance of incorporating user reviews and ratings in 
+refining game recommendations. The employed strategy, centered on game similarity, involved 
+analyzing a user's gaming history by inputting their user ID. This data was then juxtaposed 
+against the gaming preferences of a vast player database, aiding in pinpointing games that 
+closely match individual user preferences. This strategy offers the potential to significantly 
+improve gaming experiences and enrich the gaming industry’s comprehension of its user 
+demographics.  
+
+When contrasting the game recommendations derived from big data analysis with those 
+obtained via Python programming techniques, substantial differences were evident. This 
+highlighted the untapped potential of big data in crafting tailored game recommendations. This 
+holistic and thorough analytical approach promises to deliver enhanced insights for game 
+development and marketing, ensuring a better alignment with players' needs and preferences, 
+thereby fostering a more engaging gaming environment.
