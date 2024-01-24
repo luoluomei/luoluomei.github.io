@@ -98,3 +98,23 @@ This file consists of data regarding user-generated reviews and recommendations 
 To solve problems 1-6, we use Impala to query and analyze data using SQL-like syntax and then use Python and Tableau to visualize the results.
 To solve problem 7, we use Python, specifically leveraging the pandas, matplotlib, pyspark, and scikit-learn libraries.
 
+**Results**
+-----------------
+**1. Which game has the most reviews in total?**
+According to the chart provided, “Team Fortress 2” received the most reviews among the 
+top 10 games. The bar chart shows that “Team Fortress 2” has garnered over 300,000 reviews, 
+making it the most reviewed game on the list. The games that followed "Team Fortress 2" were 
+"Rust," "Cyberpunk 2077," "Counter-Strike: Global Offensive," "Dota 2," "The Witcher 3: 
+Wild Hunt," "Paladin," "Fallout 4," "Wallpaper Engine," and "Tom Clancy's Rainbow Six 
+Siege," all with significant numbers of reviews.
+Team Fortress 2's high reviews reflect its long-term popularity and strong gaming 
+community. It is worth noting that Team Fortress 2 has been on the market for quite some time, 
+which has also contributed to the large number of reviews it has accumulated. In addition, the 
+emergence of new games such as Cyberpunk 2077 shows that recently released games can also 
+receive a large number of reviews, which may be due to the initial hype and the large player 
+base at launch. Overall, the number of reviews a game receives can reflect its popularity, the 
+size of its player base, and community activity.  
+
+![Q1](/images/1.png)
+
+
